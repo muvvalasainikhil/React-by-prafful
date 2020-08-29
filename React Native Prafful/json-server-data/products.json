@@ -1,0 +1,63 @@
+{
+  "allProducts": [
+    {
+      "name": "Apple iPhone 7 Plus (Black, 32 GB)",
+      "price": "35999",
+      "description": "Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor",
+      "stock": "100",
+      "category": "Electronics",
+      "imageUrl": "mobile.jpg",
+      "id": 7
+    },
+    {
+      "name": "Acer Aspire 7 Core i5 9th Gen",
+      "price": "59000",
+      "description": "8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA Geforce GTX 1650",
+      "stock": "100",
+      "category": "Electronics",
+      "imageUrl": "laptop.jpg",
+      "id": 8
+    },
+    {
+      "name": "iPad 9.7 inch",
+      "price": "27999",
+      "description": "Ipad from Apple",
+      "stock": "250",
+      "category": "Electronics",
+      "imageUrl": "ipad.jpg",
+      "id": 9
+    }
+  ],
+  "userDetails": [
+    {
+      "id": 1,
+      "username": "sai2104",
+      "email": "muvvalasainikhil@gmail.com",
+      "password": "sai"
+    },
+    {
+      "username": "sai21",
+      "email": "msn@gmail.com",
+      "password": "sai1",
+      "id": 2
+    },
+    {
+      "username": "nikhil",
+      "email": "nikhil@gmail.com",
+      "password": "sai1",
+      "id": 3
+    },
+    {
+      "username": "user",
+      "email": "user@user.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "123",
+      "id": 5
+    }
+  ]
+}

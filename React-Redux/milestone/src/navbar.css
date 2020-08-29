@@ -1,0 +1,22 @@
+.navbarbg {
+  float: right;
+  text-align: center;
+  vertical-align: middle;
+  background-color: black;
+  width: 100%;
+}
+h2 {
+  display: inline;
+  text-decoration: red;
+  font-size: 20px;
+  color: white;
+  float: left;
+}
+.navpbg {
+  font-size: 25px;
+  float: left;
+}
+.rightbg {
+  margin-right: 2%;
+  float: right;
+}

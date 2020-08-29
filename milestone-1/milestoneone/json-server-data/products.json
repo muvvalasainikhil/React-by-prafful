@@ -1,0 +1,111 @@
+{
+  "allProducts": [
+    {
+      "name": "Mi 4A PRO 80 cm (32) HD Ready",
+      "price": "12499",
+      "stock": "20",
+      "description": " LED Smart Android TV With Google Data Saver",
+      "category": "Electronics",
+      "imageUrl": "Tv.jpeg",
+      "id": 1
+    },
+    {
+      "name": "Canon EOS 3000D DSLR Camera ",
+      "price": "22499",
+      "stock": "22",
+      "description": "Single Kit with 18-55 lens (16 GB Memory Card & Carry Case)  (white)",
+      "category": "Electronics",
+      "imageUrl": "camera.jpeg",
+      "id": 2
+    },
+    {
+      "name": "Parachute Coconut Oil Can  (1 L)",
+      "price": "25",
+      "stock": "22",
+      "description": "gdhgdsh",
+      "category": "Electronics",
+      "imageUrl": "background.jpg",
+      "id": 3
+    }
+  ],
+  "userDetails": [
+    {
+      "id": 1,
+      "username": "sainikhil",
+      "email": "sainikhil@gmail.com",
+      "password": "sai1"
+    },
+    {
+      "username": "sainikhil2104",
+      "email": "muvvala@gmail.com",
+      "password": "sai2",
+      "id": 2
+    },
+    {
+      "username": "sainikhik1997",
+      "email": "sai@gmail.com",
+      "password": "saiabhi1",
+      "id": 3
+    },
+    {
+      "username": "Nikhil",
+      "email": "muvvalasainikhil@gmail.com",
+      "password": "Nikhil@21",
+      "id": 4
+    },
+    {
+      "username": "hai",
+      "email": "sai@gmail.com",
+      "password": "jj",
+      "id": 5
+    },
+    {
+      "username": "Joe",
+      "email": "jyothi@gmail.com",
+      "password": "joe",
+      "id": 6
+    },
+    {
+      "username": "reddy",
+      "email": "reddy@gmail.com",
+      "password": "reddy",
+      "id": 7
+    },
+    {
+      "username": "prafful",
+      "email": "prafful@gmail.com",
+      "password": "prafful",
+      "id": 8
+    },
+    {
+      "username": "Nik1",
+      "email": "nik@gmail.com",
+      "password": "nik",
+      "id": 9
+    },
+    {
+      "username": "Sai1",
+      "email": "sain@gmail.com",
+      "password": "sai",
+      "id": 10
+    },
+    {
+      "username": "praffuldaga",
+      "email": "praffuldaga@gmail.com",
+      "password": "prafful",
+      "id": 11
+    },
+    {
+      "username": "322",
+      "email": "sd@gmail.com",
+      "password": "aa",
+      "id": 12
+    },
+    {
+      "username": "nik22",
+      "email": "nik22@gmail.com",
+      "password": "aaa",
+      "id": 13
+    }
+  ]
+}

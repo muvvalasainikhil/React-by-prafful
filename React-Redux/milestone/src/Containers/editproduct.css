@@ -1,0 +1,23 @@
+.editpbg {
+  position: center;
+  width: 500px;
+  height: 30px;
+  z-index: 15;
+  top: 40%;
+  left: 40%;
+  margin: -100px 0 0 -150px;
+
+  padding: 10px;
+}
+div.transbox {
+  margin: 50px;
+  background-color: black;
+  border: 1px solid black;
+  opacity: 0.8;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
